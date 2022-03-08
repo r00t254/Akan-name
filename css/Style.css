@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+    box-sizing: border-box;
+    margin: 15px;
+    align-items: center;
+    font-size: medium;
+    font-style: normal;
+}
+h1{
+    text-align:center ;
+    justify-content: space-between;
+    height: 10px;
+}
+    
+    
+    

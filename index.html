@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan names</title>
+    <link rel="stylesheet" href="./css/Style.css">
+</head>
+<body>
+  <h1>Akan birthday calculator</h1> 
+  <p class="text">Fill the form below</p>
+  <form action="">
+      <label class="label">Day</label><br><br>
+      <input type ="number"  id="day"  required max="31" min="1"><br><br>
+      <label class=""> Month</label><br><br>
+      <input type="number" id="month" min = "1" max = "12"><br><br>
+      <label class="">Year</label><br><br>
+      <input type="number" id="year"><br><br>
+      <label class="">Gender</label><br><br>
+       <select id="gender" required>
+   <option value="male">Male</option>
+   <option value="female">Female</option>
+ </select><br><br>
+<input type="submit" value="submit" onclick="findDay()"><br>
+  </form>  
+
+ <script src="./js/script .js"></script>   
+</body>
+</html>
