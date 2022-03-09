@@ -17,7 +17,7 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 ##### Setup Instructions and Installation
 
-- Clone this repository to a location in your file system. `git clone https://github.com/YomZsamora/Akan-Names.git`
+- Clone this repository to a location in your file system. `git clone https://github.com/r00t254/Akan-name.git`
 - Open terminal command line then navigate to the root folder of the application. `cd Akan-Names`
 - Open `index.html` on your Browser.
 
