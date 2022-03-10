@@ -7,5 +7,6 @@ body{
     font-style: normal;
 }
 .label{
-    font-size: 25px;
+    font-size: 5px;
+    box-sizing: content-box;
 }
