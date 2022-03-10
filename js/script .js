@@ -1,5 +1,5 @@
-var maleName = [" Kwasi", " Kwandwo", " Kwabena", " Kwaku", " Yaw", " Kofi", " Kwame"];
-var femaleName = [" Akosua", " Adwoa", " Abenaa", " Akua", " Yaa", " Afua", " Ama"];
+var MaleName = [" Kwasi", " Kwandwo", " Kwabena", " Kwaku", " Yaw", " Kofi", " Kwame"];
+var FemaleName = [" Akosua", " Adwoa", " Abenaa", " Akua", " Yaa", " Afua", " Ama"];
 function findDay() {
     var mm = parseInt(document.getElementById("month").value);
     var day = parseInt(document.getElementById("day").value);
