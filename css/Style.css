@@ -5,9 +5,11 @@ body{
     align-items: center;
     font-size: 15px;
     font-style: small;
+    font-display: ;
 }
 .label{
     font-size: 25px;
     box-sizing: content-box;
     color: blue;
+    padding-top: 10px;
 }

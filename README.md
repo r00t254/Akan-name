@@ -14,6 +14,7 @@ A web application that takes a user's birthday and calculates the day of the wee
 
 - Laptop 
 - Internet
+-Browser
 
 ##### Setup Instructions and Installation
 
@@ -53,7 +54,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 
 ## Known Bugs
-There are no known bugs
+There are no known bugs 
 
 
 ##### Link to Live Site : [https://r00t254.github.io/Akan-name/](https://r00t254.github.io/Akan-name/)
