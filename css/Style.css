@@ -3,10 +3,11 @@ body{
     box-sizing: border-box;
     margin: 15px;
     align-items: center;
-    font-size: medium;
-    font-style: normal;
+    font-size: 15px;
+    font-style: small;
 }
 .label{
-    font-size: 5px;
+    font-size: 25px;
     box-sizing: content-box;
+    color: blue;
 }
