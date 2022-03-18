@@ -14,10 +14,10 @@ body{
          
     }
 .label{
-    font-size: 25px;
+    font-size: 17px;
     box-sizing: content-box;
     color: blue;
-    padding-top: 10px;
+    text-align: justify;
 }
 
 #title{
